@@ -1,4 +1,4 @@
-package jakiesGlopoty;
+package JUnitPackage;
 
 import org.junit.Assert;
 

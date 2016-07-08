@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="jakiesGlopoty.Testy" time="3.901" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="JUnitPackage.Testy" time="5.726" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_91\jre\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\MARCIN\Desktop\Java-Project\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2480276724271399030.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\MARCIN\Desktop\Java-Project\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7140785607006482173.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
     <property name="java.library.path" value="C:\Java\jdk1.8.0_91\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Java/bin/server;C:/Java/bin;C:/Java/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Users\MARCIN\Downloads\apache-maven-3.3.9/bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Java\jdk1.8.0_91\bin;C:\Users\MARCIN\Downloads\eclipse-jee-mars-2-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -44,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Java\jdk1.8.0_91\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="pl"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,10 +61,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="jakiesGlopoty.Testy" name="testCreateGamesModel" time="0.005"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromModelFunctionWinner" time="0.962"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromRockPaperScissorsModelFunctionRandom" time="0.511"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromHareAndDeerModelFunctionJudge" time="1.507"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromModelFunctionroundFunction" time="0"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromTicTacToeModelFunctionWins" time="0.916"/>
+  <testcase classname="JUnitPackage.Testy" name="testCreateGamesModel" time="0.004"/>
+  <testcase classname="JUnitPackage.Testy" name="testFromModelFunctionWinner" time="1.162"/>
+  <testcase classname="JUnitPackage.Testy" name="testFromRockPaperScissorsModelFunctionRandom" time="0.779"/>
+  <testcase classname="JUnitPackage.Testy" name="testFromHareAndDeerModelFunctionJudge" time="2.604"/>
+  <testcase classname="JUnitPackage.Testy" name="testFromModelFunctionroundFunction" time="0"/>
+  <testcase classname="JUnitPackage.Testy" name="testFromTicTacToeModelFunctionWins" time="1.177"/>
 </testsuite>
