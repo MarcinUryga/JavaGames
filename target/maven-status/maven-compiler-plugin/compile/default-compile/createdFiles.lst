@@ -1,14 +1,13 @@
-jakiesGlupoty\main.class
 GameView\HareAndDeerView.class
-jakiesGlupoty\GameClass.class
 GameController\GamesController$1.class
+mainJavaGames\main.class
 Players\Uczen.class
 DecorateTheView\ViewDecorator.class
 GameController\GamesController.class
 Threads\Music.class
 DecorateTheView\HeadsAndTailsDecorator.class
 GameModel\HuntingforHareAndDeerStrategy.class
-jakiesGlupoty\main$1.class
+mainJavaGames\main$1.class
 GameView\HeadsAndTailsView.class
 DecorateTheView\RockPaperScissorDecorator.class
 Interfaces\Wygrana.class
@@ -28,6 +27,7 @@ Players\Przedszkolak.class
 GameView\RockPaperAndScissorsView.class
 GameController\NotChangeableGamesButtons.class
 GameModel\GamesModel.class
+mainJavaGames\GameClass.class
 GameView\StrategyGamesView.class
 Threads\Timer.class
 DecorateTheView\TicTacToeDecorator.class

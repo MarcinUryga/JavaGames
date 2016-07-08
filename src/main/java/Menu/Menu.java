@@ -22,7 +22,7 @@ import Players.Student;
 import Players.Uczen;
 import Threads.Music;
 import Threads.Timer;
-import jakiesGlupoty.GameClass;
+import mainJavaGames.GameClass;
 
 public class Menu extends JFrame implements ActionListener{
 	/**

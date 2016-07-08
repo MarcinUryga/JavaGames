@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="jakiesGlopoty.Testy" time="3.44" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="jakiesGlopoty.Testy" time="3.901" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Java\jdk1.8.0_91\jre\bin"/>
     <property name="java.vm.version" value="25.91-b15"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\MARCIN\Desktop\Java-Project\jakiesGlupoty"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\MARCIN\Desktop\Java-Project\JavaGames"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\MARCIN\Desktop\Java-Project\jakiesGlupoty"/>
+    <property name="user.dir" value="C:\Users\MARCIN\Desktop\Java-Project\JavaGames"/>
     <property name="java.runtime.version" value="1.8.0_91-b15"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Java\jdk1.8.0_91\jre\lib\endorsed"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\MARCIN\Desktop\Java-Project\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4944527795252085073.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\MARCIN\Desktop\Java-Project\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2480276724271399030.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
     <property name="java.library.path" value="C:\Java\jdk1.8.0_91\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Java/bin/server;C:/Java/bin;C:/Java/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Lenovo\FusionEngine;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Users\MARCIN\Downloads\apache-maven-3.3.9/bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Java\jdk1.8.0_91\bin;C:\Users\MARCIN\Downloads\eclipse-jee-mars-2-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -53,7 +53,7 @@
     <property name="java.ext.dirs" value="C:\Java\jdk1.8.0_91\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Java\jdk1.8.0_91\jre\lib\rt.jar;C:\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Java\jdk1.8.0_91\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\MARCIN\Desktop\Java-Project\jakiesGlupoty\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\MARCIN\Desktop\Java-Project\JavaGames\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -61,10 +61,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="jakiesGlopoty.Testy" name="testCreateGamesModel" time="0.004"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromModelFunctionWinner" time="1.049"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromRockPaperScissorsModelFunctionRandom" time="0.477"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromHareAndDeerModelFunctionJudge" time="1.37"/>
+  <testcase classname="jakiesGlopoty.Testy" name="testCreateGamesModel" time="0.005"/>
+  <testcase classname="jakiesGlopoty.Testy" name="testFromModelFunctionWinner" time="0.962"/>
+  <testcase classname="jakiesGlopoty.Testy" name="testFromRockPaperScissorsModelFunctionRandom" time="0.511"/>
+  <testcase classname="jakiesGlopoty.Testy" name="testFromHareAndDeerModelFunctionJudge" time="1.507"/>
   <testcase classname="jakiesGlopoty.Testy" name="testFromModelFunctionroundFunction" time="0"/>
-  <testcase classname="jakiesGlopoty.Testy" name="testFromTicTacToeModelFunctionWins" time="0.54"/>
+  <testcase classname="jakiesGlopoty.Testy" name="testFromTicTacToeModelFunctionWins" time="0.916"/>
 </testsuite>

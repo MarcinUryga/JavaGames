@@ -1,4 +1,4 @@
-package jakiesGlupoty;
+package mainJavaGames;
 
 import GameController.GamesController;
 import GameModel.GamesModel;

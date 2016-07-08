@@ -1,10 +1,10 @@
-package jakiesGlupoty;
+package mainJavaGames;
 
 
 import java.awt.EventQueue;
 import java.io.IOException;
 
-//glowna klasa
+//g³ówna klasa
 public class main {
 	public static void main(String[] args) throws IOException{
 		EventQueue.invokeLater(new Runnable(){
